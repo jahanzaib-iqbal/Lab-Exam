@@ -9,4 +9,4 @@ It is the frontend clone of Aga Khan University
 
 <h3> FAQ - Frequently asked questions</h3>
 Created a FAQ web page where you can add a new FAQ (Frequently Asked Questions) and clicking it will show the answer and inherit the styles. You can add a new FAQ and its answer
-![image](https://github.com/jahanzaib-iqbal/Lab-Exam/assets/72562056/b2085515-9682-4444-89a5-e9f0698d998e)
+<img src='./images/FAQ.png'>
