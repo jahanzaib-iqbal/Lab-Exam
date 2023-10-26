@@ -1,4 +1,4 @@
-# Lab-Exam
+# Lab-Exams
 This Repo is for my University Web Lab Exams
 
 <h3> AKU Clone</h3>
