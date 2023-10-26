@@ -3,8 +3,8 @@ This Repo is for my University Web Lab Exams
 
 <h3> AKU Clone</h3>
 It is the frontend clone of Aga Khan University
-![image](https://github.com/jahanzaib-iqbal/Lab-Exam/assets/72562056/cdaed608-4b13-425f-a66a-3d010acfd5dd)
-
+<br>
+<img src='./images/AKU.png'>
 
 
 <h3> FAQ - Frequently asked questions</h3>
